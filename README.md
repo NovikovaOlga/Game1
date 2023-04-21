@@ -13,8 +13,8 @@
     - You will be awarded points for the time
 
 <p>
- <img style="width: 180px;" src="https://github.com/NovikovaOlga/Game1/blob/main/screens/Demo1.gif">
- <img style="width: 180px;" src="https://github.com/NovikovaOlga/Game1/blob/main/screens/screen1.png">
+ <img style="width: 180px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/Other/Game1/Demo1.gif">
+ <img style="width: 180px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/Other/Game1/screen1.png">
 <p>
 
 ## Technologies
